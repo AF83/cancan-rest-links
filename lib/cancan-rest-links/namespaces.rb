@@ -1,3 +1,4 @@
 module CanCan
-  modules :link
+  module Link
+  end
 end
